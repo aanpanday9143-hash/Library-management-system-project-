@@ -17,14 +17,13 @@ Features
 
 Technologies Used
 
-- Programming Language: C
 - Concepts: Data Structures and Algorithms (DSA)
 - Tools: GCC Compiler / Code::Blocks / VS Code
 
 Objective
 
-The main objective of this project is to apply C programming and DSA concepts to solve a real-world problem while improving programming, logical thinking, and problem-solving skills.
+The main objective of this project is to apply  DSA concepts to solve a real-world problem while improving programming, logical thinking, and problem-solving skills.
 
 Learning Outcomes
 
-This project helps beginners understand data management, searching, record handling, and the practical use of data structures in C.
+This project helps beginners understand data management, searching, record handling, and the practical use of data structures .
