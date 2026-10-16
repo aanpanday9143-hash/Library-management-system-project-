@@ -1,9 +1,9 @@
 # Library-management-system-project-
-Library Management System in C
+Library Management System 
 
-The Library Management System is a console-based project developed using the C programming language and Data Structures and Algorithms (DSA). It helps manage library operations such as adding new books, displaying book records, searching for books, issuing books, and returning books.
+The Library Management System is a console-based project developed using the Data Structures and Algorithms (DSA). It helps manage library operations such as adding new books, displaying book records, searching for books, issuing books, and returning books.
 
-This project demonstrates the practical implementation of data structures, structures, functions, loops, and conditional statements in C. It provides a simple and efficient way to organize book information and understand how library management systems work.
+This project demonstrates the practical implementation of data structures, structures, functions, loops, and conditional statements . It provides a simple and efficient way to organize book information and understand how library management systems work.
 
 Features
 
